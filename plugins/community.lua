@@ -10,5 +10,6 @@ return {
   { import = "astrocommunity.bars-and-lines.vim-illuminate" }, 
   { import = "astrocommunity.scrolling.vim-smoothie" },
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
+  { import = "astrocommunity.scrolling.mini-animate"},
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
