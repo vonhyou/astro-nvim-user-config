@@ -4,8 +4,9 @@ return {
 
   -- lang packs
   { import = "astrocommunity.pack.cpp" },
-  { import = "astrocommunity.pack.python-ruff" },
+  { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.lua" },
+  { import = "astrocommunity.pack.python-ruff" },
 
   -- functionalities
   { import = "astrocommunity.media.vim-wakatime" },
@@ -16,5 +17,4 @@ return {
   { import = "astrocommunity.colorscheme.kanagawa-nvim" },
   { import = "astrocommunity.editing-support.auto-save-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
-  { import = "astrocommunity.note-taking.neorg" },
 }
