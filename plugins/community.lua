@@ -4,6 +4,7 @@ return {
 
   -- lang packs
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.cmake" },
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.python-ruff" },
